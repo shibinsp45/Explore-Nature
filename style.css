@@ -116,7 +116,8 @@ body{
     gap: 20px;
 }
 .footer{
-    background-color: rgba(0, 0, 0, 0.306);
+    padding:20px;
+    background-color:transparent;
     color: white;
     text-align: center;
     

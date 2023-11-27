@@ -1,3 +1,4 @@
 
-![image](https://github.com/shibinsp45/Explore-Nature/assets/63835182/5d77eba7-1bfa-41c1-947b-022129df03ea)
 
+
+![Explore Nature](https://github.com/shibinsp45/Explore-Nature/assets/63835182/28cde5c3-6c9f-462e-a000-9ff2799af1c8)
